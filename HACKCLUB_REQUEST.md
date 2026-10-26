@@ -13,7 +13,7 @@ I've included the KiCad files, firmware, and a DigiKey bill of materials in this
 
 The current estimate is approximately **$5.80 for one set of components** and **$16.80 for three PCBs on OSH wich is the minimum quantity**. With a $35 budget, that would leave $18.20 after the PCB cost.
 
-Would it be possible to request **three sets of the components ** so I can assemble all three boards? Based on those estimates, the total would be about $34.20 ($16.80 + 3 × $5.80), before any shipping, taxes, or price changes. If three sets are not possible, would **two sets of components** be an option?
+Would it be possible to request **three sets of the components** so I can assemble all three boards? Based on those estimates, the total would be about $34.20 ($16.80 + 3 × $5.80), before any shipping, taxes, or price changes. If three sets are not possible, would **two sets of components** be an option?
 
 I may be misunderstanding how the parts allowance is calculated, so please let me know what quantity is eligible under the budget.
 
