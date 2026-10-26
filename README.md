@@ -1,5 +1,7 @@
 # NFC Profile Keychain
 
+See [`HACKCLUB_REQUEST.md`](HACKCLUB_REQUEST.md) for the message prepared for Hack Club.
+
 A compact, battery-powered NFC keychain built around an **ATtiny85V** and an **ST25DV04KC dynamic NFC tag**. A single button switches between four configurable URL profiles, each indicated by an RGB LED.
 
 > **Project status:** Prototype / under development. The firmware and hardware have not yet been independently verified. Please review the design and test it before relying on it.
@@ -105,5 +107,3 @@ Menu labels can vary with Arduino IDE and ATTinyCore versions; confirm the targe
 ## Help / review requested
 
 I would appreciate a quick review of the KiCad design and firmware before ordering or assembling the boards. In particular, I would like confirmation that the PCB and component footprints look correct, the ATtiny85/ST25DV04KC wiring is plausible, and the firmware's NFC/I²C behavior is likely to work as intended.
-
-See [`HACKCLUB_REQUEST.md`](HACKCLUB_REQUEST.md) for the message prepared for Hack Club.
