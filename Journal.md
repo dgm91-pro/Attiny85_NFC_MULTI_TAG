@@ -1,10 +1,14 @@
 ---
-title  | NFC MULTI TAG
-github | https://github.com/dgm91-pro/Attiny85_NFC_MULTI_TAG
-description | A small NFC business keychain with 4 selectable profiles.
-total_time | 13h
+title | NFC MULTI TAG
 
-# The Idea
+github | https://github.com/dgm91-pro/Attiny85_NFC_MULTI_TAG
+
+description | A small NFC business keychain with 4 selectable profiles.
+
+total_time | 13h
+---
+
+## The Idea
 
 I wanted to make something useful for my everyday life, especially for my business and professional activities.
 
@@ -30,7 +34,7 @@ I chose the ATtiny85 because it is small and has only 8 pins, which makes the pr
 
 Total time spent: 1h
 
-# Working on the Schematic and PCB
+## Working on the Schematic and PCB
 
 I started designing the electronic circuit in KiCad.
 
@@ -61,7 +65,7 @@ Another important part is power management. Since the device uses a CR2032 batte
 
 Total time spent: 3h
 
-# BOM and Budget
+## BOM and Budget
 
 I prepared the Bill of Materials with the components needed for manufacturing.
 
@@ -71,7 +75,7 @@ The goal was to keep the project affordable while using components that fit the 
 
 Total time spent: 1h
 
-# GitHub Documentation
+## GitHub Documentation
 
 I organised the GitHub repository and added the project files.
 
@@ -83,7 +87,7 @@ I wanted the repository to be clear enough for someone else to understand the pr
 
 Total time spent: 2h
 
-# Reviewing the Project
+## Reviewing the Project
 
 I reviewed the different files and checked what still needs to be done.
 
